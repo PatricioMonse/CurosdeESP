@@ -29,4 +29,4 @@ journal.md
 resources.md
 
 ## 🖥️ Vista previa
-Сайт можно просмотреть локально, [открыв файл index.html в любом браузере.] (https://patriciomonse.github.io/CurosdeESP/)
+Сайт можно просмотреть локально, открыв файл index.html в любом браузере. https://patriciomonse.github.io/CurosdeESP/
