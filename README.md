@@ -29,4 +29,4 @@ journal.md
 resources.md
 
 ## 🖥️ Vista previa
-Сайт можно просмотреть локально, открыв файл index.html в любом браузере. file:///C:/Users/patri/Desktop/CursodeESP/index.html
+Сайт можно просмотреть локально, [открыв файл index.html в любом браузере.] (file:///C:/Users/patri/Desktop/CursodeESP/index.html)
